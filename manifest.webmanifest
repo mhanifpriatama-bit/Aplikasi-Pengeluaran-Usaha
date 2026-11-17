@@ -3,7 +3,7 @@
   "name": "Catat Pengeluaran Usaha",
   "short_name": "CatatBiaya",
   "description": "Aplikasi pencatatan pengeluaran usaha: HPP, OPEX, CAPEX, Prive, dan alokasi produk.",
-  "start_url": "/",
+  "start_url": "./",
   "scope": "/",
   "display": "standalone",
   "background_color": "#800000",
